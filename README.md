@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @grandwizardman67
+- I'm making an indie game. Shocker, everyone has! At least it's not retro-inspired!
+- **I like:**
+-   Procedural Generation
+-   Game Design
+-   Optimized Code
+-   OOP (yes...)
